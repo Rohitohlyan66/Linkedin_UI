@@ -1,0 +1,2 @@
+rootProject.name='Linkedin SignIn Screen UI'
+include ':app'
